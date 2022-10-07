@@ -1,0 +1,17 @@
+     				PROGETTO ESP8266 NodeMCU with 
+		MPU-6050 Accelerometer, Gyroscope and Temperature Sensor
+
+
+Lista dei componenti:
+- scheda di sviluppo esp 8266
+- MPU-6050 Accelerometer, Gyroscope and Temperature Sensor
+
+Descrizione:
+Realizziamo un rilevatore di accelerazione:
+colleghiamo alla scheda di sviluppo ESP 8266 il sensore MPU-6050 (Accelerometro) che
+ci restituerà i valori di accelerazione rilevati tramite l'accensione degli specifici
+led collegati. In particolare ci saranno 4 led dove:
+- il primo corrisponde ad una intensità intesa tra x e y (da impostare)
+- il secondo corrisponde ad una intensità intesa tra a e b (da impostare)
+- il terzo corrisponde ad una intensità intesa tra c e d (da impostare)
+- il quarto corrisponde ad una intensità intesa tra e e f (da impostare)
